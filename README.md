@@ -2,7 +2,7 @@ Hello! Welcome to my GitHub profile. My name is Raphael.
 
 I am currently working in software analysis at a company focused on the agribusiness sector.
 
-At present, I am studying at FIAP in a postgraduate course: Software Systems Architecture with Azure, where I am learning how to build software with modern and efficient architecture using C# 12, DevOps, Serverless, Microservices, Clean Architecture, Agile methodologies, and more.
+At present, I am studying at FIAP in a postgraduate course: Software Systems Architecture with Azure, where I am learning how to build software with modern and efficient architecture using C# 12, DevOps, Serverless, Microservices, Clean Architecture, Agile methodologies, Docker and more.
 
 Over the past 7 years, I've worked with .NET, SQL, Docker, and other technologies. I started by providing support to software users, and later transitioned to working with APIs and partner integrations.
 
